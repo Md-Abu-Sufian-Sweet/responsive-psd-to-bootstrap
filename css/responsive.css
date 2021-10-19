@@ -1,0 +1,53 @@
+
+
+
+@media (max-width: 992px){
+	.navbar-dark .navbar-nav .nav-link {   
+    margin-left: 0;
+}
+.button {
+    margin-top: 35px;
+}
+.price-table {
+    margin-bottom: 35px;
+}
+
+}
+@media(max-width: 768px){
+     .feature-content p {
+    padding-bottom: 55px;
+}
+
+.download-section h5{
+	padding: 25px 0;
+	font-size: 28px;
+}
+.price-table {
+    margin-bottom: 50px;
+}
+}
+
+@media(max-width: 575px){
+	.container{
+		width: 350px;
+	}
+	.banner-content h1 {
+    font-size: 35px;
+}
+.btn-button-one {
+    padding: 12px 23px;
+    margin-bottom: 25px;
+}
+.btn-button-two {
+    padding: 12px 29px;
+    margin-bottom: 30px;
+}
+.footer-section ul li a {
+    margin: 0 25px;
+    display: inline-block;
+    font-size: 20px;
+}
+.footer-content h6 {
+    font-size: 15px; 
+}
+}
